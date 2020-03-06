@@ -1,0 +1,22 @@
+Chipre -> 110
+Rusia -> 92
+Bielorrusia -> 88
+Suecia -> 85
+Estonia -> 78
+Dinamarca -> 74
+Suiza -> 72
+Eslovenia -> 71
+Alemania -> 70
+Italia -> 70
+Islandia -> 69
+Francia -> 68
+Países Bajos -> 66
+Noruega -> 64
+Serbia -> 61
+Azerbaiyán -> 58
+Israel -> 55
+Grecia -> 53
+República Checa -> 50
+Malta -> 48
+Reino Unido -> 39
+Albania -> 33
